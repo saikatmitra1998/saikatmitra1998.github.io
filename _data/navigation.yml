@@ -35,8 +35,8 @@ main:
   - title: "Community Involvement"
     url: /community/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "Teaching"
     url: /teaching/
