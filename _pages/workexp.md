@@ -7,7 +7,7 @@ redirect_from:
   - /workexp.html
 ---
 
-### Deep Learning Researcher | Master Thesis (December 2023 * Present)
+### Deep Learning Researcher | Master Thesis (December 2023 - Present)
 
 _German Aerospace Center (Deutsches Zentrum fu ̈r Luft* und Raumfahrt e.V.), Stuttgart, Germany_
 
@@ -18,7 +18,7 @@ _German Aerospace Center (Deutsches Zentrum fu ̈r Luft* und Raumfahrt e.V.), St
 principles in Python to generate time series data from mobility patterns.
 * Investigating patterns and trends by implementing techniques such as LSTM, Transformers and XGBoost on time*series data using PyTorch framework.
 
-### Software Developer | Working Student (January 2023 * March 2024)
+### Software Developer | Working Student (January 2023 - March 2024)
 
 _Otto von Guericke University, Magdeburg, Germany_
 
@@ -29,7 +29,7 @@ following Agile development practices.
 * Designed and delivered responsive web application using SAP UI5 framework, enhancing user experience.
 * Utilized Docker to containerize environments, ensuring consistency across development, testing, and deployment.
 
-### Graduate Teaching Assistant | Data Mining (April 2023 * July 2023)
+### Graduate Teaching Assistant | Data Mining (April 2023 - July 2023)
 
 _Otto von Guericke University, Magdeburg, Germany_
 
@@ -38,7 +38,7 @@ _Otto von Guericke University, Magdeburg, Germany_
 * Conducted exercise classes for Masters student teaching them different Machine Learning algorithms.
 * Contributed to refining the curriculum to align with industry trends, ensuring a pertinent learning experience.
 
-### Software Engineer | Systems Engineer | CBO (Aug 2019 * March 2022)
+### Software Engineer | Systems Engineer | CBO (Aug 2019 - March 2022)
 
 _Deloitte US India Consulting Pvt. Ltd., Mumbai, India_
 

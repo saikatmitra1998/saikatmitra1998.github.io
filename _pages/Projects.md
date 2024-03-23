@@ -39,7 +39,7 @@ popular attribution methods, clarifying model interpretability, region sensitivi
 * Evaluated the transformer model’s response generation capability through Greedy Decoding with batch size of 1,
 showcasing its effectiveness.
 
-### Employee Performance Optimisation using ML in GCP | BigQuery, BigQueryML (May 2023 * July 2023)
+### Employee Performance Optimisation using ML in GCP | BigQuery, BigQueryML (May 2023 - July 2023)
 
 * Leveraged GCP tools to visualize employee learning curves and develop data*driven employee assignment.
 * Demonstrated the benefits of data*driven employee assignment & improved allocation of service employees.
@@ -48,7 +48,7 @@ showcasing its effectiveness.
 * Used Python and Flask to create the User Interface (UI) and deployed it in Google App Engine (GAE).
 * Employed Google Distance Matrix API for calculation of distances to client sites.
 
-### Movie Recommendation System using ML | Python, TKinter, SVD (Feb 2019 * June 2019)
+### Movie Recommendation System using ML | Python, TKinter, SVD (Feb 2019 - June 2019)
 
 * Spearheaded team of three, building a Collaborative based Movie Recommendation System leveraging Python.
 * Implemented the SVD algorithm to mitigate MSE and RMSE and enhance system accuracy.
