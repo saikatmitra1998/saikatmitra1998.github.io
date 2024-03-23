@@ -21,7 +21,7 @@ repository               : "saikatmitra1998/saikatmitra1998.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_picture.png"
   name             : "Saikat Mitra"
   pronouns         : # example: "she/her"  
   bio              : "Data Enthusiast"
