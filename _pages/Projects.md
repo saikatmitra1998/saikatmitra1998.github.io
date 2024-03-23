@@ -55,4 +55,4 @@ showcasing its effectiveness.
 * Utilized Tkinter, as GUI, to design and develop an intuitive and visually compelling user interface.
 
 
-<!** (GitHub) ([GitHub](https://github.com/arminnorouzi/patentGPT) * ([pypi](https://pypi.org/project/patentgpt*extract/))) * (May 2023 – Sept 2023) **>
+<!-- (GitHub) ([GitHub](https://github.com/arminnorouzi/patentGPT) * ([pypi](https://pypi.org/project/patentgpt*extract/))) * (May 2023 – Sept 2023) -->
