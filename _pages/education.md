@@ -12,4 +12,4 @@ author_profile: true
 
 ### Bachelor of Science in Computer Science (June 2016 - June 2019)
 * St. Xavier’s College, Kolkata, India (University of Calcutta)
-* GPA: 2.1% (German standard)
+* GPA: 2.1 (German standard)
