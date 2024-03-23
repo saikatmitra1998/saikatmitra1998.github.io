@@ -9,20 +9,20 @@ redirect_from:
 
 ### Deep Learning Researcher | Master Thesis (December 2023 - Present)
 
-_German Aerospace Center (Deutsches Zentrum fu ̈r Luft* und Raumfahrt e.V.), Stuttgart, Germany_
+_German Aerospace Center (Deutsches Zentrum fur Luft und Raumfahrt e.V.), Stuttgart, Germany_
 
-* Utilizing ’Mobility in Deutschland’ and ’German Mobility Panel’ data to construct an open*licensable dataset using deep learning techniques.
+* Utilizing ’Mobility in Deutschland’ and ’German Mobility Panel’ data to construct an open-licensable dataset using deep learning techniques.
 * Focused on analyzing energy consumption patterns of electric vehicles in the daily lives of individuals in Germany.
 * Conducting data preprocessing, including cleaning and transformation, using Pandas, NumPy, and Dask libraries.
-* Contributed enhancements to the open*source tool Vencopy, employing object*oriented programming (OOP)
+* Contributed enhancements to the open-source tool Vencopy, employing object-oriented programming (OOP)
 principles in Python to generate time series data from mobility patterns.
-* Investigating patterns and trends by implementing techniques such as LSTM, Transformers and XGBoost on time*series data using PyTorch framework.
+* Investigating patterns and trends by implementing techniques such as LSTM, Transformers and XGBoost on time-series data using PyTorch framework.
 
 ### Software Developer | Working Student (January 2023 - March 2024)
 
 _Otto von Guericke University, Magdeburg, Germany_
 
-* Integral member * Bildungsraum Digital (BIRD) project by Federal Ministry of Education and Research (BMBF).
+* Integral member - Bildungsraum Digital (BIRD) project by Federal Ministry of Education and Research (BMBF).
 * Developed and optimized ABAP programs and interfaces to enhance SAP functionality and business requirement,
 following Agile development practices.
 * Created OData services facilitating seamless data exchange between SAP system and external application.
@@ -47,4 +47,4 @@ _Deloitte US India Consulting Pvt. Ltd., Mumbai, India_
 * Efficiently designed and implemented robust SQL scripts for use in production.
 * Employed Bamboo and Jenkins for Continuous Integration, expediting testing and software delivery.
 * Automated QA and production deployment using Ansible playbooks and Python scripts.
-* Used Docker Compose, orchestrated multi*container applications and simplifying microservices deployment.
+* Used Docker Compose, orchestrated multi-container applications and simplifying microservices deployment.
