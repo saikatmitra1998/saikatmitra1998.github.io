@@ -9,7 +9,7 @@ redirect_from:
 
 ### Deep Learning Researcher | Master Thesis (December 2023 - Present)
 
-German Aerospace Center (Deutsches Zentrum fu ̈r Luft- und Raumfahrt e.V.), Stuttgart, Germany
+_German Aerospace Center (Deutsches Zentrum fu ̈r Luft- und Raumfahrt e.V.), Stuttgart, Germany_
 
 - Utilizing ’Mobility in Deutschland’ and ’German Mobility Panel’ data to construct an open-licensable dataset using deep learning techniques.
 - Focused on analyzing energy consumption patterns of electric vehicles in the daily lives of individuals in Germany.
@@ -20,7 +20,7 @@ principles in Python to generate time series data from mobility patterns.
 
 ### Software Developer | Working Student (January 2023 - March 2024)
 
-Otto von Guericke University, Magdeburg, Germany
+_Otto von Guericke University, Magdeburg, Germany_
 
 - Integral member - Bildungsraum Digital (BIRD) project by Federal Ministry of Education and Research (BMBF).
 - Developed and optimized ABAP programs and interfaces to enhance SAP functionality and business requirement,
@@ -31,7 +31,7 @@ following Agile development practices.
 
 ### Graduate Teaching Assistant | Data Mining (April 2023 - July 2023)
 
-Otto von Guericke University, Magdeburg, Germany
+_Otto von Guericke University, Magdeburg, Germany_
 
 - Assisted Prof. Myra Spiliopoulou (KMD dept.) in teaching the course on Data Mining to graduate students.
 - Created engaging exercises, problem sets, and supplementary materials to boost student comprehension.
@@ -40,7 +40,7 @@ Otto von Guericke University, Magdeburg, Germany
 
 ### Software Engineer | Systems Engineer | CBO (Aug 2019 - March 2022)
 
-Deloitte US India Consulting Pvt. Ltd., Mumbai, India
+_Deloitte US India Consulting Pvt. Ltd., Mumbai, India_
 
 - Utilized Python scripting for automation tasks, including server monitoring, log analysis, and data manipulation.
 - Used Shell Script to automate email alerts for server downtime, ensuring rapid stakeholder notification.
