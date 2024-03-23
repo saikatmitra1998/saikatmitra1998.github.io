@@ -1,22 +1,45 @@
 # main links links
+# main:
+#   - title: "Publications"
+#     url: /publications/
+
+#   - title: "Talks"
+#     url: /talks/    
+
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+#   - title: "Portfolio"
+#     url: /portfolio/
+        
+#   - title: "Blog Posts"
+#     url: /year-archive/
+    
+#   - title: "CV"
+#     url: /cv/
+    
+#   - title: "Guide"
+#     url: /markdown/
+
+# main links links
 main:
+  - title: "Work Experience"
+    url: /workexp/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Community Involvement"
+    url: /community/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+    url: /teaching/
+
+  - title: "Blog"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
