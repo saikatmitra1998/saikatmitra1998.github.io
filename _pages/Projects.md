@@ -7,7 +7,7 @@ redirect_from:
   - /projects.html
 ---
 
-### Validating Attribution Techniques using Deep Learning ((May 2023 – Sept 2023))
+### Validating Attribution Techniques using Deep Learning (May 2023 – Sept 2023)
 
 - Aims to validate the robustness of saliency attribution techniques, providing explanations for model predictions.
 - Randomly sampled 113 images from the training set and generated over 16,000 perturbed images, providing a
