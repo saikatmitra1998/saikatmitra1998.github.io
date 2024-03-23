@@ -8,7 +8,7 @@ author_profile: true
 
 ### Graduate Teaching Assistant | Data Mining (April 2023 - July 2023)
 
-Otto von Guericke University, Magdeburg, Germany
+_Otto von Guericke University, Magdeburg, Germany_
 
 * Assisted Prof. Myra Spiliopoulou (KMD dept.) in teaching the course on Data Mining to graduate students.
 * Created engaging exercises, problem sets, and supplementary materials to boost student comprehension.
