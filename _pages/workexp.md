@@ -7,7 +7,7 @@ redirect_from:
   - /workexp.html
 ---
 
-### Deep Learning Researcher | Master Thesis (December 2023 - Present)
+### Data Scientist | Master Thesis (December 2023 - Present)
 
 _German Aerospace Center (Deutsches Zentrum fur Luft und Raumfahrt e.V.), Stuttgart, Germany_
 
@@ -39,7 +39,7 @@ _Otto von Guericke University, Magdeburg, Germany_
 * Conducted exercise classes for Masters student teaching them different Machine Learning algorithms.
 * Contributed to refining the curriculum to align with industry trends, ensuring a pertinent learning experience.
 
-### Software Engineer | Systems Engineer | CBO (Aug 2019 - March 2022)
+### Software Engineer | Systems Engineer (Aug 2019 - March 2022)
 
 _Deloitte US India Consulting Pvt. Ltd., Mumbai, India_
 
