@@ -11,12 +11,13 @@ redirect_from:
 
 _German Aerospace Center (Deutsches Zentrum fur Luft und Raumfahrt e.V.), Stuttgart, Germany_
 
-* Utilizing ’Mobility in Deutschland’ and ’German Mobility Panel’ data to construct an open-licensable dataset using deep learning techniques.
+* Utilizing sensitive mobility datasets to construct an open-licensable dataset using deep learning techniques.
 * Focused on analyzing energy consumption patterns of electric vehicles in the daily lives of individuals in Germany.
 * Conducting data preprocessing, including cleaning and transformation, using Pandas, NumPy, and Dask libraries.
 * Contributed enhancements to the open-source tool Vencopy, employing object-oriented programming (OOP)
 principles in Python to generate time series data from mobility patterns.
-* Investigating patterns and trends by implementing techniques such as LSTM, Transformers and XGBoost on time-series data using PyTorch framework.
+* Designed and implemented a large language model (LLM) using a decoder-only Transformer architecture in the PyTorch framework, specializing in autoregressive tasks to generate synthetic mobility data, enhancing predictive accuracy and model robustness.
+* Integrated MLflow for tracking experiments, logging metrics, and managing model versions, facilitating reproducibility and collaboration throughout the development lifecycle.
 
 ### Software Developer | Working Student (January 2023 - March 2024)
 
