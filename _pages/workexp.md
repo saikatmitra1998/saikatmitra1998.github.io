@@ -7,7 +7,7 @@ redirect_from:
   - /workexp.html
 ---
 
-### Data Scientist | Master Thesis (December 2023 - Present)
+### Data Scientist (December 2023 - June 2024)
 
 _German Aerospace Center (Deutsches Zentrum fur Luft und Raumfahrt e.V.), Stuttgart, Germany_
 
@@ -19,7 +19,7 @@ principles in Python to generate time series data from mobility patterns.
 * Designed and implemented a large language model (LLM) using a decoder-only Transformer architecture in the PyTorch framework, specializing in autoregressive tasks to generate synthetic mobility data, enhancing predictive accuracy and model robustness.
 * Integrated MLflow for tracking experiments, logging metrics, and managing model versions, facilitating reproducibility and collaboration throughout the development lifecycle.
 
-### Software Developer | Working Student (January 2023 - March 2024)
+### Software and DevOps Engineer (January 2023 - March 2024)
 
 _Otto von Guericke University, Magdeburg, Germany_
 
@@ -39,13 +39,17 @@ _Otto von Guericke University, Magdeburg, Germany_
 * Conducted exercise classes for Masters student teaching them different Machine Learning algorithms.
 * Contributed to refining the curriculum to align with industry trends, ensuring a pertinent learning experience.
 
-### Software Engineer | Systems Engineer (Aug 2019 - March 2022)
+### Data Engineer | Systems Engineer (Aug 2019 - March 2022)
 
 _Deloitte US India Consulting Pvt. Ltd., Mumbai, India_
 
-* Utilized Python scripting for automation tasks, including server monitoring, log analysis, and data manipulation.
-* Used Shell Script to automate email alerts for server downtime, ensuring rapid stakeholder notification.
-* Efficiently designed and implemented robust SQL scripts for use in production.
-* Employed Bamboo and Jenkins for Continuous Integration, expediting testing and software delivery.
-* Automated QA and production deployment using Ansible playbooks and Python scripts.
-* Used Docker Compose, orchestrated multi-container applications and simplifying microservices deployment.
+* Led the migration from Oracle DB to Redshift using Amazon Athena and S3, increased
+performance by 17%.
+* Designed a data processing pipeline using Hadoop, Kafka, and PySpark, optimizing the
+handling of large datasets and reducing processing time by 25%.
+* Automated data ingestion workflows with Python scripting, saving the team over 10
+hours of manual work per week.
+* Created interactive dashboards using Power BI for visualization, improving data
+accessibility and decision-making speed by 25%.
+* Collaborated with machine learning teams to prepare datasets for predictive model
+training, resulting in a 20% accuracy improvement.
