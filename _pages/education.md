@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### Master of Science in Data and Knowledge Engineering (April 2022 - Present)
+### Master of Science in Data and Knowledge Engineering (April 2022 - December 2024)
 * Otto von Guericke University, Magdeburg, Germany
 * GPA: 1.8 (German standard)
 
