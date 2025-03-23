@@ -10,12 +10,16 @@ redirect_from:
 
 
 
-Welcome to my digital space! I'm Saikat Mitra, a data enthusiast located in Stuttgart, Germany, driven by the endless possibilities of data analysis and its transformative potential.
+Welcome to my digital space! I’m Saikat Mitra, a data and AI enthusiast currently based in Munich, Germany, driven by the endless possibilities of AI and its real-world impact.
 
-Currently, I'm immersed in writing my Master Thesis at the German Aerospace Center (DLR), where I delve into researching about various deep learning algorithms used for mobility data. This opportunity allows me to merge my academic curiosity with practical insights, contributing to advancements in the transport sector.
+I’m currently working as an AI Consultant at Allianz Services, where I focus on building Generative AI solutions, especially around Retrieval-Augmented Generation (RAG) to develop intelligent, context-aware systems that improve decision-making and productivity across business domains.
 
-Prior to this, I served as a Teaching Assistant for Data Mining at Otto von Guericke University, where I not only facilitated learning but also contributed to refining the curriculum to align with industry trends, ensuring a pertinent learning experience and created engaging exercises, problem sets, and supplementary materials to boost student comprehension.
+Before this, I was part of a pioneering project at Allianz Technology, where I contributed to making the organization GenAI-enabled—from identifying use cases to building PoCs that integrate large language models into enterprise workflows.
 
-My proficiency extends across a versatile array of programming languages including Python, R and SQL. I'm adept at leveraging these languages alongside cutting-edge tools and frameworks such as Scikit-learn, TensorFlow, PyTorch, Databricks, and Docker. These skills have empowered me to create an ML infrastructure on different cloud platforms like GCP, Azure and AWS, be it for research or business requirements.
+Earlier, I completed a research internship at the German Aerospace Center (DLR), where I worked with transformer-based architectures to synthesize artificial data from over 20 years of German National Transport data. The goal was to augment mobility datasets for training deep learning models in transport analytics—a challenging but incredibly rewarding project that sat at the intersection of data engineering and applied machine learning.
 
-I'm passionate about collaborating on projects that push the boundaries of what's possible with data. Whether it's exploring potential opportunities, discussing collaborative ventures, or simply engaging in stimulating conversations about AI and Machine Learning, I'm always eager to connect. Feel free to reach out via LinkedIn or drop me an email - I'd love to hear from you!
+During my academic journey, I also served as a Teaching Assistant for Data Mining at Otto von Guericke University. There, I supported curriculum updates, crafted hands-on exercises, and created engaging content to help students build a solid foundation in data science.
+
+My technical toolkit includes Python, SQL, LLMs, RAG, AI Agents and tools like Scikit-learn, TensorFlow, PyTorch, Databricks, Docker, with hands-on experience deploying machine learning and generative AI pipelines on GCP, Azure, and AWS.
+
+I’m always open to collaborating on innovative AI projects or having conversations about data, GenAI, and machine learning. Feel free to reach out via LinkedIn or email—I’d love to connect!
