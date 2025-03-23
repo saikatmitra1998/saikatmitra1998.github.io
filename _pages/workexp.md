@@ -7,17 +7,31 @@ redirect_from:
   - /workexp.html
 ---
 
+### AI and Data Consultant (March 2025 - Present)
+
+_Allianz Services, Munich, Germany_
+
+* Developing a GenAI-powered applications for Allianz Consulting using Azure.
+
+
+### Generative AI Engineer - CTO Office (September 2024 - February 2025)
+
+_Allianz Technology, Munich, Germany_
+
+* Contributed to the building GenAI applications, LLM and RAG systems.
+* Researching and developing AI agent framework, aiming for task automation.
+* Supporting projects and organizing company-wide events like AI-Run.
+
 ### Data Scientist (December 2023 - June 2024)
 
 _German Aerospace Center (Deutsches Zentrum fur Luft und Raumfahrt e.V.), Stuttgart, Germany_
 
-* Utilizing sensitive mobility datasets to construct an open-licensable dataset using deep learning techniques.
-* Focused on analyzing energy consumption patterns of electric vehicles in the daily lives of individuals in Germany.
-* Conducting data preprocessing, including cleaning and transformation, using Pandas, NumPy, and Dask libraries.
-* Contributed enhancements to the open-source tool Vencopy, employing object-oriented programming (OOP)
-principles in Python to generate time series data from mobility patterns.
-* Designed and implemented a large language model (LLM) using a decoder-only Transformer architecture in the PyTorch framework, specializing in autoregressive tasks to generate synthetic mobility data, enhancing predictive accuracy and model robustness.
-* Integrated MLflow for tracking experiments, logging metrics, and managing model versions, facilitating reproducibility and collaboration throughout the development lifecycle.
+* Constructed an open dataset from large mobility data, ensuring data compliance.
+* Enhanced the open-source tool Vencopy, implementing data pipeline, resulting in NLP data
+generation efficiency.
+* Implemented a decoder-only Transformer using 20-year dataset in the Tensorflow framework.
+* Integrated MLflow for tracking experiments, logging metrics, and managing models, reducing
+model management time by 20%.
 
 ### Software and DevOps Engineer (January 2023 - March 2024)
 
@@ -39,17 +53,14 @@ _Otto von Guericke University, Magdeburg, Germany_
 * Conducted exercise classes for Masters student teaching them different Machine Learning algorithms.
 * Contributed to refining the curriculum to align with industry trends, ensuring a pertinent learning experience.
 
-### Data Engineer | Systems Engineer (Aug 2019 - March 2022)
+### Data Scientist | Systems Engineer (Aug 2019 - March 2022)
 
 _Deloitte US India Consulting Pvt. Ltd., Mumbai, India_
 
-* Led the migration from Oracle DB to Redshift using Amazon Athena and S3, increased
-performance by 17%.
-* Designed a data processing pipeline using Hadoop, Kafka, and PySpark, optimizing the
-handling of large datasets and reducing processing time by 25%.
-* Automated data ingestion workflows with Python scripting, saving the team over 10
-hours of manual work per week.
-* Created interactive dashboards using Power BI for visualization, improving data
-accessibility and decision-making speed by 25%.
-* Collaborated with machine learning teams to prepare datasets for predictive model
-training, resulting in a 20% accuracy improvement.
+* Built predictive models with Python and Scikit-learn, boosting accuracy by 20%.
+* Collaborated with cross-functional teams to streamline feature engineering, reducing ML model
+training time by 30%.
+* Deployed machine learning models into production environments and established monitoring
+systems that ensured 99% model uptime.
+* Created interactive dashboards using Power BI for visualizing model performance and predictions,
+improving data accessibility and decision-making speed.
